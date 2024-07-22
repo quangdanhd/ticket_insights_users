@@ -1,0 +1,3 @@
+[submodule "data"]
+	path = data
+	url = git@github.com:quangdanhd/ticket_insights_data.git
