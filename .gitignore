@@ -21,7 +21,10 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
+package.json
 *package-lock.json
 *yarn.lock
 
 src
+Makefile
+bs-config.js
